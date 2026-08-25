@@ -1,4 +1,4 @@
-# naveenk2.github.io
+# k2naveen.github.io
 
 Personal blog — Linux graphics, Wayland, VRR.
 
